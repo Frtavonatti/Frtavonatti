@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Felipe, a Chilean self taught develover currenty learning front-end technologies as HTML5, CSS3 and Javascript. 
 
 <!--
 **Frtavonatti/Frtavonatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
