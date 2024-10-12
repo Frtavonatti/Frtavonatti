@@ -1,10 +1,8 @@
-### Hi there 👋 I am Felipe, a self taught develover currenty learning full-stack development with Javascript. 
+### Currenty learning full-stack development with Javascript. 
 
 Contact me on :
 
 <a href="https://www.linkedin.com/in/frtavonatti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-:earth_americas: **Location**: Lisbon, Portugal
 
 
 ## Technologies:
