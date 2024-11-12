@@ -1,8 +1,9 @@
 ### Currenty learning full-stack development with Javascript. 
 
-Contact me on :
+[![GitHub Streak](https://streak-stats.demolab.com?user=Frtavonatti&theme=shadow-purple)](https://git.io/streak-stats)
 
-<a href="https://www.linkedin.com/in/frtavonatti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[//]: <> (Contact me on :)
+[//]: <> (<a href="https://www.linkedin.com/in/frtavonatti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>)
 
 
 ## Technologies:
