@@ -1,5 +1,3 @@
-### Currenty learning full-stack development with Javascript. 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Frtavonatti&theme=shadow-purple)](https://git.io/streak-stats)
 
 [//]: <> (Contact me on :)
