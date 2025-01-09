@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
 
 #### Currently Learning / Experimenting
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React%20Native-0088CC?style=for-the-badge&logo=react&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Godot-1F3A5D?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+<img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React%20Native-0088CC?style=for-the-badge&logo=react&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Godot-1F3A5D?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
 
 
 <!--<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
