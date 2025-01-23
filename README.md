@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats-opal-phi.vercel.app?user=Frtavonatti&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-opal-phi.vercel.app?user=Frtavonatti&theme=shadow-purple)](https://git.io/streak-stats)
 
 [//]: <> (Contact me on :)
 [//]: <> (<a href="https://www.linkedin.com/in/frtavonatti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>)
@@ -23,7 +23,7 @@
 
 
 #### Currently Learning / Experimenting
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React%20Native-0088CC?style=for-the-badge&logo=react&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Godot-1F3A5D?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React%20Native-0088CC?style=for-the-badge&logo=react&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /> <img src="https://img.shields.io/badge/Godot-1F3A5D?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
 
 
 <!--<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
