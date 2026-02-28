@@ -1,8 +1,5 @@
 [![GitHub Streak](https://github-readme-streak-stats-opal-phi.vercel.app?user=Frtavonatti&theme=shadow-purple)](https://git.io/streak-stats)
 
-[//]: <> (Contact me on :)
-[//]: <> (<a href="https://www.linkedin.com/in/frtavonatti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>)
-
 ## Technologies:
 
 #### Programming Languages
@@ -27,7 +24,7 @@
 
 #### Currently Learning / Experimenting
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
 
 <!--<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 - 🔭 I’m currently working on ...
